@@ -1,7 +1,7 @@
-# Normes CIPAV
+# Normes 
 
 ##
-Git projects naming convention for CIPAV digital projects:
+Git projects naming convention for  digital projects:
 2 cases depending of the type of project you want to create:
 	- a website project will be named following this pattern: 
 		cipav-dig/member-request-domain.frontend.ihm.angular2
